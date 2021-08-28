@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arshtak12345@gmail.com**
 
-- ⚡ Fun fact **I spend almost day on phone.**
+- ⚡ Fun fact **I spend almost day on phone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
