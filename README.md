@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **frontend**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Data Structure & Algorithm**
 
