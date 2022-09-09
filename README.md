@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Data Structure & Algorithm**
+- 🤝 I’m looking for help with **Cyber Security**
 
 - 💬 Ask me about **frontend or any tech realted stuff**
 
