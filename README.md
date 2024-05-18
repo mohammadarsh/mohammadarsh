@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **frontend**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Power Bi**
 
-- 🤝 I’m looking for help with **Cyber Security**
+- 🤝 I’m looking for help with **Data Science**
 
 - 💬 Ask me about **frontend or any tech realted stuff**
 
