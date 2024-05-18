@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">, I'm Mohammad Arsh</h1>
+<h1 align="center">Hey 👋, I'm Mohammad Arsh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="470"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadarsh" /> </p>
