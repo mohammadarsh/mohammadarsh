@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 💬 Ask me about **frontend or any tech realted stuff**
+- 💬 Ask me about **tech Related Stuff**
 
 - 📫 How to reach me **arshtak12345@gmail.com**
 
